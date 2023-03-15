@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="book:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a836b9b3-6886-4022-8f4f-efa5ea6063bf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="2CvcFaxOvVGXcB3PSlJ617vRPRU" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/static/img" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.1789052" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.softeem.service.impl" />
+      <recent name="com.softeem.dao.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\ASUS\IdeaProjects\book\web\static\img" />
+      <recent name="D:\Users\ASUS\IdeaProjects\book\web\pages\error" />
+      <recent name="D:\Users\ASUS\IdeaProjects\book\web\pages\manager" />
+      <recent name="D:\Users\ASUS\IdeaProjects\book\web\static\css" />
+      <recent name="D:\Users\ASUS\IdeaProjects\book\web" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\ASUS\IdeaProjects\book\web" />
+      <recent name="D:\Users\ASUS\IdeaProjects\book\web\pages\manager" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.softeem.test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.softeem.service" />
+      <recent name="com.softeem.utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TbookDaoimplTest.queryForPageItems">
+    <configuration name="BookServiceTest.addBook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="book" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.softeem.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.softeem.test" />
+      <option name="MAIN_CLASS_NAME" value="com.softeem.test.BookServiceTest" />
+      <option name="METHOD_NAME" value="addBook" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookServiceTest.queryBookById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="book" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.softeem.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.softeem.test" />
+      <option name="MAIN_CLASS_NAME" value="com.softeem.test.BookServiceTest" />
+      <option name="METHOD_NAME" value="queryBookById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookServiceTest.queryBooks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="book" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.softeem.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.softeem.test" />
+      <option name="MAIN_CLASS_NAME" value="com.softeem.test.BookServiceTest" />
+      <option name="METHOD_NAME" value="queryBooks" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TbookDaoimplTest.queryForPageItems" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="book" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.softeem.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.softeem.test" />
+      <option name="MAIN_CLASS_NAME" value="com.softeem.test.TbookDaoimplTest" />
+      <option name="METHOD_NAME" value="queryForPageItems" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TbookDaoimplTest.queryForPageTotalCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="book" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.softeem.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.softeem.test" />
+      <option name="MAIN_CLASS_NAME" value="com.softeem.test.TbookDaoimplTest" />
+      <option name="METHOD_NAME" value="queryForPageTotalCount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.64" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.64" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="b2a9dca7-9d0b-4e1e-98a8-afb19c1328d2" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="book:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/book" />
+          </settings>
+        </artifact>
+        <file path="$PROJECT_DIR$/../../../../bookimg">
+          <settings>
+            <option name="CONTEXT_PATH" value="/bookimg" />
+          </settings>
+        </file>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="f51b54bf-5906-4909-91fd-0d8b12f3f519" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="2730" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="book:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TbookDaoimplTest.queryForPageItems" />
+      <item itemvalue="JUnit.BookServiceTest.queryBooks" />
+      <item itemvalue="JUnit.BookServiceTest.queryBookById" />
+      <item itemvalue="JUnit.BookServiceTest.addBook" />
+      <item itemvalue="JUnit.TbookDaoimplTest.queryForPageTotalCount" />
+      <item itemvalue="Tomcat 服务器.Tomcat 8.5.64" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BookServiceTest.queryBooks" />
+        <item itemvalue="JUnit.BookServiceTest.queryBookById" />
+        <item itemvalue="JUnit.TbookDaoimplTest.queryForPageItems" />
+        <item itemvalue="JUnit.TbookDaoimplTest.queryForPageTotalCount" />
+        <item itemvalue="JUnit.BookServiceTest.addBook" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a836b9b3-6886-4022-8f4f-efa5ea6063bf" name="Default Changelist" comment="" />
+      <created>1659686396290</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659686396290</updated>
+      <workItem from="1659686397661" duration="10637000" />
+      <workItem from="1659747901566" duration="9963000" />
+      <workItem from="1659835773270" duration="6260000" />
+      <workItem from="1659921538830" duration="9378000" />
+      <workItem from="1659941242179" duration="11546000" />
+      <workItem from="1660006650188" duration="1706000" />
+      <workItem from="1660037013971" duration="8358000" />
+      <workItem from="1660113551430" duration="822000" />
+      <workItem from="1660117868407" duration="3181000" />
+      <workItem from="1660132161916" duration="2997000" />
+      <workItem from="1660190419052" duration="1142000" />
+      <workItem from="1660279966737" duration="2498000" />
+      <workItem from="1660304512522" duration="4041000" />
+      <workItem from="1660377015605" duration="4675000" />
+      <workItem from="1660381822269" duration="5614000" />
+      <workItem from="1660401909902" duration="5000" />
+      <workItem from="1660401966760" duration="22000" />
+      <workItem from="1660460996545" duration="7860000" />
+      <workItem from="1660526695609" duration="8743000" />
+      <workItem from="1660550310861" duration="10234000" />
+      <workItem from="1660570193149" duration="2394000" />
+      <workItem from="1660612269014" duration="9967000" />
+      <workItem from="1660640956099" duration="6105000" />
+      <workItem from="1660653534949" duration="606000" />
+      <workItem from="1660701106836" duration="3953000" />
+      <workItem from="1660719642703" duration="5828000" />
+      <workItem from="1660735285353" duration="10000" />
+      <workItem from="1660735379932" duration="31000" />
+      <workItem from="1660735426645" duration="11000" />
+      <workItem from="1660737834688" duration="16000" />
+      <workItem from="1660737862757" duration="5000" />
+      <workItem from="1660740976101" duration="4567000" />
+      <workItem from="1660790031716" duration="43000" />
+      <workItem from="1660790083272" duration="7123000" />
+      <workItem from="1660822419345" duration="8000" />
+      <workItem from="1660880229034" duration="3000" />
+      <workItem from="1660880244337" duration="4000" />
+      <workItem from="1661092348366" duration="1536000" />
+      <workItem from="1661097956732" duration="1272000" />
+      <workItem from="1661131385511" duration="1503000" />
+      <workItem from="1661326489444" duration="1795000" />
+      <workItem from="1661389681777" duration="2589000" />
+      <workItem from="1661410860408" duration="14000" />
+      <workItem from="1661413605874" duration="29000" />
+      <workItem from="1661413935964" duration="794000" />
+      <workItem from="1661497752741" duration="598000" />
+      <workItem from="1661680779884" duration="24000" />
+      <workItem from="1662208204920" duration="1014000" />
+      <workItem from="1662282160919" duration="1259000" />
+      <workItem from="1663062205946" duration="1401000" />
+      <workItem from="1663077726664" duration="5831000" />
+      <workItem from="1663118493878" duration="2486000" />
+      <workItem from="1663167551569" duration="1538000" />
+      <workItem from="1663209449989" duration="757000" />
+      <workItem from="1663216015966" duration="31000" />
+      <workItem from="1663770100250" duration="1229000" />
+      <workItem from="1663816121443" duration="2598000" />
+      <workItem from="1663824426055" duration="457000" />
+      <workItem from="1663828124614" duration="1292000" />
+      <workItem from="1663830409615" duration="2153000" />
+      <workItem from="1663901179638" duration="283000" />
+      <workItem from="1663901740100" duration="84000" />
+      <workItem from="1663917900816" duration="291000" />
+      <workItem from="1664186053671" duration="519000" />
+      <workItem from="1664187370621" duration="18000" />
+      <workItem from="1664187406454" duration="25000" />
+      <workItem from="1664187525759" duration="131000" />
+      <workItem from="1664191847583" duration="6460000" />
+      <workItem from="1664330669130" duration="1630000" />
+      <workItem from="1664420125901" duration="1881000" />
+      <workItem from="1664433767570" duration="328000" />
+      <workItem from="1664434483823" duration="33000" />
+      <workItem from="1664523526187" duration="13000" />
+      <workItem from="1664964906579" duration="119000" />
+      <workItem from="1664967836980" duration="63000" />
+      <workItem from="1665025169504" duration="822000" />
+      <workItem from="1665026433840" duration="1149000" />
+      <workItem from="1665112979527" duration="1444000" />
+      <workItem from="1665124994846" duration="16000" />
+      <workItem from="1665283535211" duration="4000" />
+      <workItem from="1665393538361" duration="531000" />
+      <workItem from="1665469767394" duration="658000" />
+      <workItem from="1665477267678" duration="103000" />
+      <workItem from="1665486055960" duration="30000" />
+      <workItem from="1665565466951" duration="187000" />
+      <workItem from="1665568415043" duration="8000" />
+      <workItem from="1665573706826" duration="131000" />
+      <workItem from="1665577046812" duration="105000" />
+      <workItem from="1665577306583" duration="69000" />
+      <workItem from="1665628482775" duration="14000" />
+      <workItem from="1665675493952" duration="2337000" />
+      <workItem from="1665713430735" duration="718000" />
+      <workItem from="1665816490713" duration="25000" />
+      <workItem from="1665929609190" duration="45000" />
+      <workItem from="1665930225798" duration="12000" />
+      <workItem from="1666096161828" duration="46000" />
+      <workItem from="1666103034974" duration="933000" />
+      <workItem from="1666346211519" duration="183000" />
+      <workItem from="1666350669664" duration="35000" />
+      <workItem from="1666512400715" duration="1601000" />
+      <workItem from="1666747232946" duration="909000" />
+      <workItem from="1666755272589" duration="1000000" />
+      <workItem from="1666759829642" duration="1324000" />
+      <workItem from="1666766684381" duration="2605000" />
+      <workItem from="1666773882709" duration="19000" />
+      <workItem from="1666837292987" duration="1443000" />
+      <workItem from="1666860694355" duration="620000" />
+      <workItem from="1666868152379" duration="1217000" />
+      <workItem from="1667027443616" duration="573000" />
+      <workItem from="1667724075399" duration="861000" />
+      <workItem from="1668439948403" duration="2145000" />
+      <workItem from="1668473265891" duration="18000" />
+      <workItem from="1668613477581" duration="222000" />
+      <workItem from="1668682596721" duration="3000" />
+      <workItem from="1671525968889" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
